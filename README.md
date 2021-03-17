@@ -1,11 +1,13 @@
 # RobotTracking
 
+Youtube Demo video
+https://youtu.be/5mjPr2e_6sY
+
 ![github5](https://user-images.githubusercontent.com/8468724/111451478-6fed0280-874c-11eb-9dc3-e802d50127a3.jpg)
 ![github6](https://user-images.githubusercontent.com/8468724/111451600-914dee80-874c-11eb-971f-988e421e25d9.jpg)
 
 
-
-I am still cleaning up the code. For the model, you can train your own as mine is for Robomaster competition.
+I am still cleaning up the code. For the model, you can train your own as mine is for Robomaster competition. https://www.robomaster.com/en-US
 
 prerequisite:
 I assume the detectnet is working using Dusty code
