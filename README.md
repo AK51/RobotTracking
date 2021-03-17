@@ -54,3 +54,10 @@ cd jetson-inference/python/training/detection/ssd
 NET=models/robot
 python3 detectnet_andy_2nd_cam.py --model=$NET/ssd-mobilenet.onnx --labels=$NET/labels.txt           --input-blob=input_0 --output-cvg=scores --output-bbox=boxes             csi://1
 
+
+
+Happy coding with Jetson
+![IMG_20210317_182500](https://user-images.githubusercontent.com/8468724/111453213-49c86200-874e-11eb-8c4d-fc011bbab895.jpg)
+
+
+
