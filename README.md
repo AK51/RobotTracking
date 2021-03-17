@@ -38,8 +38,8 @@ Here are some pictures of the wiring
 
 Procedure
 Go to jetson-inference/python/training/detection/ssd
-Copy my code into the same ssd folder
-
+Copy my code into the same ssd folder (github has 25Mb limit...)
+https://drive.google.com/drive/folders/13qB9RhnMC-AKEtlUMmfBfmPJEQiczuAM?usp=sharing
 Then run these two commands
 
 cd ~
