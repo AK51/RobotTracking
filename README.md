@@ -8,6 +8,7 @@ https://youtu.be/5mjPr2e_6sY
 
 
 I am still cleaning up the code. For the model, you can train your own as mine is for Robomaster competition. https://www.robomaster.com/en-US
+The code is tested in my Nvidia Xiaver NX, and it will work on nano too. The fps can go up to 200.
 
 prerequisite:
 I assume the detectnet is working using Dusty code
