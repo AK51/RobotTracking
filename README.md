@@ -1,4 +1,5 @@
 # RobotTracking
+This project will be used in our Robomaster Robot. Tracking the enemy is the first step, the PID of the servo or DC motor(with encoder) will be designed to look ahead the enemy position at least 5 meters away. 
 
 Youtube Demo video
 https://youtu.be/5mjPr2e_6sY
