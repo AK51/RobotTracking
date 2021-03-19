@@ -44,15 +44,21 @@ https://drive.google.com/drive/folders/13qB9RhnMC-AKEtlUMmfBfmPJEQiczuAM?usp=sha
 Then run these two commands
 
 cd ~
+
 cd jetson-inference/python/training/detection/ssd
+
 NET=models/robot
+
 python3 detectnet_andy.py --model=$NET/ssd-mobilenet.onnx --labels=$NET/labels.txt           --input-blob=input_0 --output-cvg=scores --output-bbox=boxes             csi://0
 
 #another terminal
 
 cd ~
+
 cd jetson-inference/python/training/detection/ssd
+
 NET=models/robot
+
 python3 detectnet_andy_2nd_cam.py --model=$NET/ssd-mobilenet.onnx --labels=$NET/labels.txt           --input-blob=input_0 --output-cvg=scores --output-bbox=boxes             csi://1
 
 
