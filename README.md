@@ -8,11 +8,11 @@ https://youtu.be/5mjPr2e_6sY
 ![github6](https://user-images.githubusercontent.com/8468724/111451600-914dee80-874c-11eb-971f-988e421e25d9.jpg)
 
 
-I am still cleaning up the code. For the model, you can train your own as mine is for Robomaster competition. https://www.robomaster.com/en-US
-The code is tested in my Nvidia Xiaver NX, and it will work on nano too. The fps can go up to 200.
+I am still cleaning up the code. For the model, you can train your own as mine. Mine only has one lable. This project is for Robomaster competition. https://www.robomaster.com/en-US
+The code is tested in my Nvidia Xiaver NX, and it will also work in nano too. The fps can go up to 200.
 
 prerequisite:
-I assume the detectnet is working using Dusty code
+I assume the detectnet is working using Dusty code (Great tutorial)
 https://github.com/dusty-nv/jetson-inference
 
 Here are the hardware requirement
