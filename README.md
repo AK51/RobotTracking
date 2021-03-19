@@ -59,5 +59,8 @@ python3 detectnet_andy_2nd_cam.py --model=$NET/ssd-mobilenet.onnx --labels=$NET/
 Happy coding with Jetson
 ![IMG_20210317_182500](https://user-images.githubusercontent.com/8468724/111453213-49c86200-874e-11eb-8c4d-fc011bbab895.jpg)
 
+Making a new onmirobot using Nvidia Nano
+![IMG_20210127_161254](https://user-images.githubusercontent.com/8468724/111727588-20bae500-88a6-11eb-8a4e-ff7a0e559338.jpg)
+
 
 
