@@ -59,8 +59,13 @@ python3 detectnet_andy_2nd_cam.py --model=$NET/ssd-mobilenet.onnx --labels=$NET/
 Happy coding with Jetson
 ![IMG_20210317_182500](https://user-images.githubusercontent.com/8468724/111453213-49c86200-874e-11eb-8c4d-fc011bbab895.jpg)
 
-Designing a new onmi-wheel robot using Nvidia Nano for an undergrad. class
+Designing a new onmi-wheel robot using Nvidia Nano for an undergrad. class. Coming Soon!
 ![IMG_20210127_161254](https://user-images.githubusercontent.com/8468724/111727588-20bae500-88a6-11eb-8a4e-ff7a0e559338.jpg)
 ![IMG_20210126_143021](https://user-images.githubusercontent.com/8468724/111727689-5790fb00-88a6-11eb-8712-a4d181fab605.jpg)
+Upgaded with arms and fingers
+![IMG_20210319_122314](https://user-images.githubusercontent.com/8468724/111731304-21577980-88ae-11eb-85ac-a5001ccab36f.jpg)
+![IMG_20210319_122245](https://user-images.githubusercontent.com/8468724/111731309-23b9d380-88ae-11eb-8d71-a73574f8ad66.jpg)
+![IMG_20210319_122250](https://user-images.githubusercontent.com/8468724/111731310-23b9d380-88ae-11eb-98e0-62f4e8b81fdd.jpg)
+
 
 
